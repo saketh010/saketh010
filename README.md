@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saketh Kanuri</h1>
 <h3 align="center">A passionate Computer Science & Engineering undergraduate at NIT Surat, Gujarat.</h3>
 
-- 🔭 I’m currently working on **CDC Project**
-- 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me: **sakethkanuri10@gmail.com**
 
 ---
